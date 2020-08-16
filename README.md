@@ -1,5 +1,4 @@
-  <img width="140px" height="90" src="https://media1.tenor.com/images/dc26484243124b4f42647f3eff67f637/tenor.gif?itemid=14534845" />  
-<br/>
+  <img width="140px" height="60" src="https://media1.tenor.com/images/dc26484243124b4f42647f3eff67f637/tenor.gif?itemid=14534845" />  
 
  <h3>whoami 👀</h3>
 
@@ -31,7 +30,7 @@ const christian = {
 }
 ```
  
- <img align="right" width="300"  alt="GIF" src="https://media1.tenor.com/images/e4d613ee59e79b93e38ec2521cce19e4/tenor.gif?itemid=5751430" />
+ <img align="right" width="260"  alt="GIF" src="https://media1.tenor.com/images/e4d613ee59e79b93e38ec2521cce19e4/tenor.gif?itemid=5751430" />
 
  ![Christian](https://github-readme-stats.vercel.app/api?username=xxamer&show_icons=true&hide_border=true)  
   
