@@ -3,7 +3,7 @@
  <h3>whoami 👀</h3>
 
 I'm **Christian Granado** , a **Sofware Developer** from Canary Islands, Spain. Currently full-time working as a fullstack developer 👀 Beside's programming, I love videogames, books and learn a bit about everything. <br/> 
-###### and also like pizza a lot
+###### and also like pizza a lot.
 
 <h3>grep basic_info ~/info.txt</h3>
 
