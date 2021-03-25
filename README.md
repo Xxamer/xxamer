@@ -7,7 +7,7 @@ I'm **Christian Granado** , a **Sofware Developer** from Canary Islands, Spain. 
 
 <h3>grep basic_info ~/info.txt</h3>
 
-- 👨🏽‍💻 I’m currently working on Elcrealrevolution.com as a fullstack developer.
+- 👨🏽‍💻 I’m currently working as a fullstack developer.
 - 🌱 I like to learn new things everyday.
 - 🤔 My interests are with front-end development, UX design, backend REST services, etc..
 - 💬 Ask me about anything, I'll help you the best I can.
