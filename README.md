@@ -10,11 +10,11 @@ I'm **Christian** , a **Sofware Developer** from Canary Islands, Spain. Currentl
 
 <h3>grep basic_info ~/info.md</h3>
 
-👨🏽‍💻 I’m currently working as a fullstack developer.
-🌱 I like to learn new things everyday.
-💬 Ask me about anything, I'll help you the best I can.
-📫 You can contact me using <chrisgrarod96@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/christiangranadorodriguez/) .
-📝 You can see my [Curriculum Vitae](https://xxamer.github.io/Curriculum/) to get more professional info.
+👨🏽‍💻 I’m currently working as a fullstack developer.   
+🌱 I like to learn new things everyday.  
+💬 Ask me about anything, I'll help you the best I can.  
+📫 You can contact me using <chrisgrarod96@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/christiangranadorodriguez/).  
+📝 You can see my [Curriculum Vitae](https://xxamer.github.io/Curriculum/) to get more professional info.  
 
 <br/>
 <br/>
@@ -46,11 +46,4 @@ const christian = {
 <td style="border:none;"> <img align="right" width="260"  alt="GIF" src="https://media1.tenor.com/images/e4d613ee59e79b93e38ec2521cce19e4/tenor.gif?itemid=5751430" /></td>
 </table>
  
-
-
-
-
-
-
-
 
