@@ -14,7 +14,7 @@ I'm **Christian** , a **Sofware Developer** from Canary Islands, Spain. Currentl
 🌱 I like to learn new things everyday.  
 💬 Ask me about anything, I'll help you the best I can.  
 📫 You can contact me using <chrisgrarod96@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/christiangranadorodriguez/).  
-📝 You can see my [Curriculum Vitae](https://xxamer.github.io/Curriculum/) to get more professional info.  
+📝 You can see my [Portfolio](https://xxamer.github.io/Portfolio/) or Download my [Curriculum Vitae] (https://drive.google.com/file/d/1I18HpK_rPjYfs2ptN7tu-XsxtWLql8s1/view?usp=sharing)  to get more professional info.  
 
 <br/>
 <br/>
