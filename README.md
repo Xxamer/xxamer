@@ -34,7 +34,7 @@ const christian = {
       tools: {"Linux", "Visual Studio Code",},
       devOps: [ "Docker🐳", "Nginx", "Lamp", "Hyper-V Server"],
       challenge: "Trying to finish one of my side projects someday...",
-      currently_working: !true
+      currently_working: true
 }
 ```
 <table >
