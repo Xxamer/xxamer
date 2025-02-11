@@ -26,7 +26,7 @@ const christian = {
       pronouns: "he" | "him",
       code: [ Typescript , Ruby, PHP, Java],
       prefered_technologies: {
-        "Web": "Angular", "Vue"
+        "Web": "Angular", "Vue", "Nuxt"
         "Mobile": "Ionic/Angular", "React Native",
         "Backend": "Laravel ", "Ruby On Rails", "Spring", "Node"
       },
