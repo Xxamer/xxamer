@@ -30,7 +30,7 @@ const christian = {
         "Mobile": "Ionic/Angular", "React Native",
         "Backend": "Laravel ", "Ruby On Rails", "Spring", "Node"
       },
-      databases: ["mongo", "MySql", "postgreSQL"],
+      databases: ["MongoDB", "MySql", "postgreSQL"],
       tools: {"Linux", "Visual Studio Code",},
       devOps: [ "Docker🐳", "Nginx", "Lamp", "Hyper-V Server"],
       challenge: "Trying to finish one of my side projects someday...",
