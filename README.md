@@ -11,7 +11,7 @@
 👨🏽‍💻 I’m currently working as a fullstack developer.   
 🌱 I like to learn new things everyday.  
 💬 Ask me about anything, I'll help you the best I can.  
-📫 You can contact me using <chrisgrarod96@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/christiangranadorodriguez/).  
+📫 You can contact me via [email](chrisgrarod96@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/christiangranadorodriguez/).  
 📝 You can see my [Portfolio](https://chrisgrdev.vercel.app/) or Download my [Curriculum Vitae](https://drive.google.com/file/d/1I18HpK_rPjYfs2ptN7tu-XsxtWLql8s1/view?usp=sharing)  to get more professional info.  
 
 <br/>
