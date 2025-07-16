@@ -5,7 +5,7 @@
 
  <h3>whoami 👀</h3>
  I’m Christian, a Software Developer from the Canary Islands, Spain. I’m currently working full-time as a fullstack developer. Beyond programming, I enjoy videogames, reading, and exploring new topics. Also… I really love pizza. 🍕
-
+🚀 Always open to collaborate on exciting projects or chat about tech, games, and books.
 <h3>grep basic_info ~/info.md</h3>
 
 👨🏽‍💻 I’m currently working as a fullstack developer.   
