@@ -4,9 +4,7 @@
  
 
  <h3>whoami 👀</h3>
-
-I'm **Christian** , a **Sofware Developer** from Canary Islands, Spain. Currently working full-time as a fullstack developer. Beside's programming, I love videogames, books and learn a bit about everything.
-<small> and also like pizza a lot. </small>
+ I’m Christian, a Software Developer from the Canary Islands, Spain. I’m currently working full-time as a fullstack developer. Beyond programming, I enjoy videogames, reading, and exploring new topics. Also… I really love pizza. 🍕
 
 <h3>grep basic_info ~/info.md</h3>
 
